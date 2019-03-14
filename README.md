@@ -1,4 +1,4 @@
-# roll20_5e_ogl_custom
+# Group Inventory - Customized Roll20 5e OGL Sheet
 Custom edits to roll20's 5e OGL character sheet - includes "group inventory" setup.
 
 Credit to the original creators of the 5e OGL sheet for roll20, their work made it possible to do this...
@@ -9,9 +9,9 @@ This is not forked, because I am not yet ready to commit to that main branch and
 ## Installation
 Simply edit the character sheet code on your roll20 campaign's settings and drop the relevant code from each of the files in this repo into the boxes.
 
-index.html -> HTML tab
-sheet.css -> CSS tab
-en.json -> Translation tab
+index.html -> HTML tab  
+sheet.css -> CSS tab  
+en.json -> Translation tab  
 
 ## How to Use
 When you wish to create a group inventory, create a new character as you would normally and give access to the sheet like you would a PC. Under the General Options (cog on the character sheet) select "INV" to toggle the view to a full-page inventory.
