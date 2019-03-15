@@ -1,6 +1,8 @@
 # Group Inventory - Customized Roll20 5e OGL Sheet
 Custom edits to roll20's 5e OGL character sheet - includes "group inventory" setup.
 
+![](https://i.imgur.com/27gRUIS.png)
+
 ![](https://i.imgur.com/1Y9zDZv.png)
 
 Credit to the original creators of the 5e OGL sheet for roll20, their work made it possible to do this...
